@@ -1,0 +1,23 @@
+---
+author: chzhshch
+comments: true
+date: 2006-03-29 16:12:38+00:00
+layout: post
+link: No Content Found
+slug: 播放解难：无法加载此文件的源筛选器
+title: 播放解难：无法加载此文件的源筛选器
+---
+
+			
+
+观看博客时，音乐播放出现“准备就绪”但就不进行缓冲下载，点击播放器出现错误信息“无法加载此文件的源筛选器”，则用如下办法尝试解决：
+
+
+
+
+点击开始－先运行“regsvr32 jscript.dll”， 然后运行“regsvr32 vbscript.dll”，重启浏览器!!
+
+
+
+
+如有什么更好的办法亦请提供！
